@@ -1,13 +1,9 @@
 PRACTICANDO PHP - APLICACION CRUD
 --------------------------
 
-Here is a URL to the broken version of this application:
+una Url ejemplo que muestra una aplicacion similar:
 
-http://www.wa4e.com/code/rps/
-
-Here is a URL to a working version of this application:
-
-http://www.wa4e.com/solutions/rps/
+https://www.wa4e.com/solutions/autoscrud/index.php
 
 
 
